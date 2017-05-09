@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome.scss";
+@import "_bootstrap-social.css";
+
+.border-bottom {
+  border-bottom: 1px solid #ededed;
+}
+
+.page-header {
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #ededed;
+}
